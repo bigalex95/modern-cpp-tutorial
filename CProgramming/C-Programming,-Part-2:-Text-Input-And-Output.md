@@ -178,6 +178,6 @@ free(buffer);
 ```
 
 
-[Back: C Programming, Part 1: Introduction](C-Programming%2C-Part-1:-Introduction.md)
+[Back: C Programming, Part 1: Introduction](C-Programming,-Part-1:-Introduction.md)
  | 
-[Next: C Programming, Part 3: Common Gotchas](C-Programming%2C-Part-3:-Common-Gotchas.md)
+[Next: C Programming, Part 3: Common Gotchas](C-Programming,-Part-3:-Common-Gotchas.md)
