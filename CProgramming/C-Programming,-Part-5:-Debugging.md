@@ -260,6 +260,6 @@ Here, by using the `x` command with parameters `16xb`, we can see that starting 
 ```0x63 0x61 0x74 0xe0 0xf9 0xbf 0x5f 0xff 0x7f 0x00```
 
 
-[Back: C Programming, Part 4: Strings and Structs](C-Programming,-Part-4:-Strings-and-Structs.md)
+[Back: C Programming, Part 4: Strings and Structs](./C-Programming,-Part-4:-Strings-and-Structs.md)
   | 
-[Next: C Programming, Review Questions](C-Programming,-Review-Questions.md)
+[Next: C Programming, Review Questions](./C-Programming,-Review-Questions.md)
