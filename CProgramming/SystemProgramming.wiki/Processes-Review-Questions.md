@@ -28,7 +28,7 @@
 * Don't you hate it when your parents tell you that you can't do something? Write me a program that sends `SIGSTOP` to your parent.
 * Write a function that fork exec waits an executable, and using the wait macros tells me if the process exited normally or if it was signaled. If the process exited normally, then print that with the return value. If not, then print the signal number that caused the process to terminate.
 <div align="center">
-<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Process-Control,-Part-1:-Wait-macros,-using-signals">
+<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Process-Control%2C-Part-1:-Wait-macros%2C-using-signals">
 Back: Process Control, Part 1: Wait macros, using signals
 </a>
 </div>

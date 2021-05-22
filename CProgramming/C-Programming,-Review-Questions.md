@@ -74,5 +74,5 @@ char *foo(int var){
 * What are some differences between the POSIX filedescriptor model and C's `FILE*` (ie what function calls are used and which is buffered)? Does POSIX use C's `FILE*` internally or vice versa?
 
 
-[Back: C Programming, Part 5: Debugging](C-Programming,-Part-5:-Debugging.md)
+[Back: C Programming, Part 5: Debugging](C-Programming%2C-Part-5:-Debugging.md)
 

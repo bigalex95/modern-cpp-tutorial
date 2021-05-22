@@ -256,7 +256,7 @@ picture = |       |       |               |               |
            ‾‾‾ ‾‾‾ ‾‾‾ ‾‾‾ ‾‾‾ ‾‾‾ ‾‾‾ ‾‾‾ ‾‾‾ ‾‾‾ ‾‾‾ ‾‾‾
 ```
 
-[Back: C Programming, Part 3: Common Gotchas](C-Programming,-Part-3:-Common-Gotchas.md)
+[Back: C Programming, Part 3: Common Gotchas](C-Programming%2C-Part-3:-Common-Gotchas.md)
  | 
-[Next: C Programming, Part 5: Debugging](C-Programming,-Part-5:-Debugging.md)
+[Next: C Programming, Part 5: Debugging](C-Programming%2C-Part-5:-Debugging.md)
 

@@ -37,15 +37,15 @@ http://cs241.cs.illinois.edu/coursebook/index.html
 ## 2. Processes
 * [[Kernel, Shells, Terminals Oh My!]]
 * [[Processes, Part 1: Introduction]]
-   * [Overview](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Processes,-Part-1:-Introduction#overview)
-   * [Process Contents](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Processes,-Part-1:-Introduction#process-contents)
-   * [Bonus: More Contents](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Processes,-Part-1:-Introduction#process-functionslimitations-bonus)
+   * [Overview](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Processes%2C-Part-1:-Introduction#overview)
+   * [Process Contents](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Processes%2C-Part-1:-Introduction#process-contents)
+   * [Bonus: More Contents](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Processes%2C-Part-1:-Introduction#process-functionslimitations-bonus)
 * [[Forking, Part 1: Introduction]]
    * [Introduction](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Forking%2C-Part-1%3A-Introduction#intro-to-fork)
    * [Waiting and Execing](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Forking%2C-Part-1%3A-Introduction#waiting-and-execing)
 * [[Forking, Part 2: Fork, Exec, Wait]]
-   * [The Pattern](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Forking,-Part-2:-Fork,-Exec,-Wait#the-pattern)
-   * [Zombies](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Forking,-Part-2:-Fork,-Exec,-Wait#zombies)
+   * [The Pattern](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Forking%2C-Part-2:-Fork%2C-Exec%2C-Wait#the-pattern)
+   * [Zombies](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Forking%2C-Part-2:-Fork%2C-Exec%2C-Wait#zombies)
 * [[Process Control, Part 1: Wait macros, using signals]]
    * [Wait Macros](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Process-Control%2C-Part-1%3A-Wait-macros%2C-using-signals#wait-macros)
    * [Signals](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Process-Control%2C-Part-1%3A-Wait-macros%2C-using-signals#signals)
@@ -53,8 +53,8 @@ http://cs241.cs.illinois.edu/coursebook/index.html
 
 ## 3. Memory and Allocators
 * [[Memory, Part 1: Heap Memory Introduction]]
-   * [C Dynamic Memory Allocation](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Memory,-Part-1:-Heap-Memory-Introduction#c-dynamic-memory-allocation)
-   * [Introduction to Allocating](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Memory,-Part-1:-Heap-Memory-Introduction#intro-to-allocating)
+   * [C Dynamic Memory Allocation](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Memory%2C-Part-1:-Heap-Memory-Introduction#c-dynamic-memory-allocation)
+   * [Introduction to Allocating](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Memory%2C-Part-1:-Heap-Memory-Introduction#intro-to-allocating)
 * [[Memory, Part 2: Implementing a Memory Allocator]]
    * [Memory Allocator Tutorial](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Memory%2C-Part-2%3A-Implementing-a-Memory-Allocator#memory-allocator-tutorial)
 * [[Memory, Part 3: Smashing the Stack Example]]
@@ -62,18 +62,18 @@ http://cs241.cs.illinois.edu/coursebook/index.html
 
 ## 4. Intro to Pthreads
 * [[Pthreads, Part 1: Introduction]]
-   * [Intro to Threads](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Pthreads,-Part-1:-Introduction#intro-to-threads)
-   * [Simple Pthreads](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Pthreads,-Part-1:-Introduction#simple-usage)
+   * [Intro to Threads](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Pthreads%2C-Part-1:-Introduction#intro-to-threads)
+   * [Simple Pthreads](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Pthreads%2C-Part-1:-Introduction#simple-usage)
 * [[Pthreads, Part 2: Usage in Practice]]
-   * [More pthread Functions](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Pthreads,-Part-2:-Usage-in-Practice#more-pthread-functions)
-   * [Intro to Race Conditions](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Pthreads,-Part-2:-Usage-in-Practice#intro-to-race-conditions)
+   * [More pthread Functions](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Pthreads%2C-Part-2:-Usage-in-Practice#more-pthread-functions)
+   * [Intro to Race Conditions](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Pthreads%2C-Part-2:-Usage-in-Practice#intro-to-race-conditions)
 * [[Pthreads, Part 3: Parallel Problems (Bonus) ]]
 * [[Pthread Review Questions]]
 
 ## 5. Synchronization
 * [[Synchronization, Part 1: Mutex Locks]]
-    * [Solving Critical Sections](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Synchronization,-Part-1:-Mutex-Locks#solving-critical-sections)
-    * [Mutex Gotchas](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Synchronization,-Part-1:-Mutex-Locks#mutex-gotchas)
+    * [Solving Critical Sections](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Synchronization%2C-Part-1:-Mutex-Locks#solving-critical-sections)
+    * [Mutex Gotchas](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Synchronization%2C-Part-1:-Mutex-Locks#mutex-gotchas)
 * [[Synchronization, Part 2: Counting Semaphores]]
 * [[Synchronization, Part 3: Working with Mutexes And Semaphores]]
     * [Thread Safe Stack](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Synchronization%2C-Part-3%3A-Working-with-Mutexes-And-Semaphores#thread-safe-stack)
@@ -95,8 +95,8 @@ http://cs241.cs.illinois.edu/coursebook/index.html
 * [[Deadlock, Part 1: Resource Allocation Graph]]
 * [[Deadlock, Part 2: Deadlock Conditions]]
 * [[Deadlock, Part 3: Dining Philosophers]]
-    * [Failed Solutions](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Deadlock,-Part-3:-Dining-Philosophers#failed-solutions)
-    * [Viable Solutions](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Deadlock,-Part-3:-Dining-Philosophers#viable-solutions)
+    * [Failed Solutions](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Deadlock%2C-Part-3:-Dining-Philosophers#failed-solutions)
+    * [Viable Solutions](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Deadlock%2C-Part-3:-Dining-Philosophers#viable-solutions)
 * [[Deadlock Review Questions]]
 
 ## 7. Inter-process Communication & Scheduling
@@ -148,8 +148,8 @@ http://cs241.cs.illinois.edu/coursebook/index.html
    * [Wait Macros](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Process-Control%2C-Part-1%3A-Wait-macros%2C-using-signals#wait-macros)
    * [Signals](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Process-Control%2C-Part-1%3A-Wait-macros%2C-using-signals#signals)
 * [[ Signals, Part 2: Pending Signals and Signal Masks ]]
-   * [Signals in Depth](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Signals,-Part-2:-Pending-Signals-and-Signal-Masks#signals-in-depth)
-   * [Disposition in Threads/Children](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Signals,-Part-2:-Pending-Signals-and-Signal-Masks#disposition-in-threadschildren)
+   * [Signals in Depth](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Signals%2C-Part-2:-Pending-Signals-and-Signal-Masks#signals-in-depth)
+   * [Disposition in Threads/Children](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Signals%2C-Part-2:-Pending-Signals-and-Signal-Masks#disposition-in-threadschildren)
 * [[ Signals, Part 3: Raising signals ]]
 * [[ Signals, Part 4: Sigaction ]]
 * [[ Signals Review Questions ]]

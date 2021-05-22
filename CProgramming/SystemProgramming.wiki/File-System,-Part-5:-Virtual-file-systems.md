@@ -90,4 +90,4 @@ $ touch arch/nocando
 touch: cannot touch `/home/demo/arch/nocando': Read-only file system
 ```
 
-[Go to File System: Part 6](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/File-System,-Part-6:-Memory-mapped-files-and-Shared-memory)
+[Go to File System: Part 6](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/File-System%2C-Part-6:-Memory-mapped-files-and-Shared-memory)

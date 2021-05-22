@@ -125,4 +125,4 @@ Yes! As a simple example you could reserve just a few bytes and change the value
 
 On the other hand, shared memory, like multithreading, creates room for data races. Processes that share writable memory might need to use synchronization primitives like mutexes to prevent these from happening.
 
-[Go to File System: Part 7](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/File-System,-Part-7:-Scalable-and-Reliable-Filesystems)
+[Go to File System: Part 7](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/File-System%2C-Part-7:-Scalable-and-Reliable-Filesystems)
