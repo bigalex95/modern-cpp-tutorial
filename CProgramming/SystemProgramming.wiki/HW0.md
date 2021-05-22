@@ -48,7 +48,7 @@ http://cs-education.github.io/sys/
 
 The course wikibook:
 
-https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming.wiki
+https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki
 
 Questions? Comments? Use Piazza:
 https://piazza.com/illinois/fall2018/cs241

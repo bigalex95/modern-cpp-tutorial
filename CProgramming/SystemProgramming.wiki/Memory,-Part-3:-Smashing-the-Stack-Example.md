@@ -40,10 +40,10 @@ int main() {
 There are [a lot](https://en.wikipedia.org/wiki/Stack_buffer_overflow) of ways that computers tend to get around this.
 
 <div align="center">
-<a href="https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming.wiki/Memory%2C-Part-2%3A-Implementing-a-Memory-Allocator">
+<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Memory%2C-Part-2%3A-Implementing-a-Memory-Allocator">
 Back: Memory, Part 2: Implementing a Memory Allocator
 </a> |
-<a href="https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming.wiki/Memory-Review-Questions">
+<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Memory-Review-Questions">
 Next: Memory Review Questions
 </a>
 </div>

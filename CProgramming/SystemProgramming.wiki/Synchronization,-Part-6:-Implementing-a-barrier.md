@@ -6,7 +6,7 @@ We could use a synchronization method called a **barrier**. When a thread reache
 
 Think of it like being out for a hike with some friends.  You agree to wait for each other at the top of each hill (and you make a mental note how many are in your group). Say you're the first one to reach the top of the first hill. You'll wait there at the top for your friends. One by one, they'll arrive at the top, but nobody will continue until the last person in your group arrives.  Once they do, you'll all proceed.
 
-Pthreads has a function `pthread_barrier_wait()` that implements this. You'll need to declare a `pthread_barrier_t` variable and initialize it with `pthread_barrier_init()`.  `pthread_barrier_init()` takes the number of threads that will be participating in the barrier as an argument.  [Here's an example.](https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming.wiki/Sample-program-using-pthread-barriers)
+Pthreads has a function `pthread_barrier_wait()` that implements this. You'll need to declare a `pthread_barrier_t` variable and initialize it with `pthread_barrier_init()`.  `pthread_barrier_init()` takes the number of threads that will be participating in the barrier as an argument.  [Here's an example.](https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Sample-program-using-pthread-barriers)
 
 
 Now let's implement our own barrier and use it to keep all the threads in sync in a large calculation.
