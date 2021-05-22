@@ -6,7 +6,7 @@ If there is a cycle in the Resource Allocation Graph and each resource in the cy
 
 Here's another example, that shows Processes 1 and 2 acquiring resources 1 and 2 while process 3 is waiting to acquire both resources. In this example there is no deadlock because there is no circular dependency.
 
-![ResourceAllocationGraph-Ex1.png](https://raw.githubusercontent.com/wiki/angrave/SystemProgramming/ResourceAllocationGraph-Ex1.png)
+![ResourceAllocationGraph-Ex1.png](https://raw.githubusercontent.com/wiki/angrave/SystemProgramming.ResourceAllocationGraph-Ex1.png)
 
 
 ## Deadlock!

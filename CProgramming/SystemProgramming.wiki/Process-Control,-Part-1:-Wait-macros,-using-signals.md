@@ -157,10 +157,10 @@ Two examples of this pattern can be found in "COMP" a terminal based 1Hz 4bit co
 Two boolean flags are used. One to mark the delivery of `SIGINT` (CTRL-C), and gracefully shutdown the program, and the other to mark `SIGWINCH` signal to detect terminal resize and redraw the entire display. 
 
 <div align="center">
-<a href="https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming/wiki/Forking%2C-Part-2%3A-Fork%2C-Exec%2C-Wait/_edit">
+<a href="https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming.wiki/Forking%2C-Part-2%3A-Fork%2C-Exec%2C-Wait/_edit">
 Back: Forking, Part 2: Fork, Exec, Wait
 </a> |
-<a href="https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming/wiki/Processes-Review-Questions">
+<a href="https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming.wiki/Processes-Review-Questions">
 Next: Processes Review Questions
 </a>
 </div>

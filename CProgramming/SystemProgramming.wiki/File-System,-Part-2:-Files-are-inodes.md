@@ -225,10 +225,10 @@ The integrity of the file system assumes the directory structure (excluding soft
 
 ---
 <div align="center">
-<a href="https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming/wiki/File-System%2C-Part-1%3A-Introduction">
+<a href="https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming.wiki/File-System%2C-Part-1%3A-Introduction">
 Back: File System, Part 1
 </a> |
-<a href="https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming/wiki/File-System,-Part-3:-Permissions">
+<a href="https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming.wiki/File-System,-Part-3:-Permissions">
 Next: File System, Part 3
 </a>
 </div>

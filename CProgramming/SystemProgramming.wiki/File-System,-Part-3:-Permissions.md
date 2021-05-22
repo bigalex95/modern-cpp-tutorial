@@ -92,4 +92,4 @@ The 's' bit means execute and set-uid; the effective userid of the process will 
 ## How do I ensure only privileged users can run my code?
 * Check the effective permissions of the user by calling `geteuid()`. A return value of zero means the program is running effectively as root.
 
-[Go to File System: Part 4](https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming/wiki/File-System,-Part-4:-Working-with-directories)
+[Go to File System: Part 4](https://github.com/bigalex95/modern-cpp-tutorial/CProgramming/SystemProgramming.wiki/File-System,-Part-4:-Working-with-directories)

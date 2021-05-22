@@ -1,4 +1,4 @@
-* [Wiki w/Interactive MC Questions](http://angrave.github.io/SystemProgramming/networkingreviewquestions.html)
+* [Wiki w/Interactive MC Questions](http://angrave.github.io/SystemProgramming.networkingreviewquestions.html)
 * See [Coding questions](#coding-questions)
 * See [Short answer questions](#short-answer-questions)
 * See [MP Wearables](https://courses.engr.illinois.edu/cs241/mps/mp7/) Food For Thought questions
