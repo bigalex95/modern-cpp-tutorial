@@ -19,7 +19,7 @@ website:
 	cd website && make
 
 build:
-	docker run --rm -v `pwd`:/$(NAME) $(DOCKER_ENV) make 
+	docker run --rm -v $(pwd):/$(NAME) $(DOCKER_ENV) make 
 
 # dev
 
