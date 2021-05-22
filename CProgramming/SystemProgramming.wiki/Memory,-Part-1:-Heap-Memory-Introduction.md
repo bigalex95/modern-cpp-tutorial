@@ -195,7 +195,7 @@ The allocator doesn't know the program's memory allocation requests in advance. 
 Good question. See next part for implementation.
 
 <div align="center">
-<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Memory%2C-Part-2%3A-Implementing-a-Memory-Allocator">
+<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Memory%2C-Part-2%3A-Implementing-a-Memory-Allocator.md">
 Next: Memory, Part 2: Implementing a Memory Allocator
 </a>
 </div>

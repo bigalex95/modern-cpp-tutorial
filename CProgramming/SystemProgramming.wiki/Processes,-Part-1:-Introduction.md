@@ -58,7 +58,7 @@ Processes could also contain
 * Environment List - a list of strings in the form `NAME=VALUE` that one can modify.
 
 <div align="center">
-<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Forking%2C-Part-1%3A-Introduction">
+<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Forking%2C-Part-1%3A-Introduction.md">
 Forking, Part 1: Introduction
 </a>
 </div>

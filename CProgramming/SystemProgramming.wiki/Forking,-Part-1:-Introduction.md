@@ -200,10 +200,10 @@ Read the man pages!
 * [wait](http://man7.org/linux/man-pages/man2/wait.2.html)
 
 <div align="center">
-<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Processes%2C-Part-1:-Introduction">
+<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Processes%2C-Part-1:-Introduction.md">
 Back: Processes, Part 1: Introduction
 </a> |
-<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Forking%2C-Part-2%3A-Fork%2C-Exec%2C-Wait">
+<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Forking%2C-Part-2%3A-Fork%2C-Exec%2C-Wait.md">
 Next: Forking, Part 2: Fork, Exec, Wait
 </a>
 </div>

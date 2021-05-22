@@ -25,7 +25,7 @@
 * How do boundary tags work? How can they be used to coalesce or split?
 
 <div align="center">
-<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Memory%2C-Part-3%3A-Smashing-the-Stack-Example">
+<a href="https://github.com/bigalex95/modern-cpp-tutorial/blob/master/CProgramming/SystemProgramming.wiki/Memory%2C-Part-3%3A-Smashing-the-Stack-Example.md">
 Back: Memory, Part 3: Smashing the Stack Example
 </a>
 </div>
