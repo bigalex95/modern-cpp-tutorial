@@ -346,4 +346,4 @@ This declares a function type comparator that accepts two `void*` params and ret
 Don't worry more to come!
 
 
-[Next: C Programming, Part 2: Text Input And Output](./C-Programming%2C-C-Part-2:-Text-Input-And-Output.md)
+[Next: C Programming, Part 2: Text Input And Output](CProgramming/C-Programming%2C-Part-2:-Text-Input-And-Output.md)
